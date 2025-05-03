@@ -1,0 +1,57 @@
+{
+    "name": "Anjana B",
+    "address": "Aradhana, Puthuppally",
+    "hometown": "Kayamkulam",
+    "education": {
+        "high_school": "Sree Narayana Central School, Kayamkulam",
+        "10th_subjects_count": "5",
+        "10th_subjects": [
+            "Math",
+            " Malayalam",
+            " English",
+            " Science",
+            " Social"
+        ],
+        "10th_score": "90%",
+        "higher_secondary": "Sree Narayana Central School, Kayamkulam",
+        "12th_subjects_count": "5",
+        "12th_subjects": [
+            "Math",
+            " English",
+            " Biology",
+            " Physics",
+            " Chemistry"
+        ],
+        "12th_score": "96%",
+        "bachelor_university": "Sree Buddha College of Engineering",
+        "bachelor_specialization": "B.Tech in Computer Science and Engineering",
+        "bachelors_status": "no",
+        "current_semester": "6",
+        "current_cgpa": "9.17"
+    },
+    "tech_stacks": [
+        "Azure",
+        " AWS"
+    ],
+    "skills": [
+        "Python",
+        " Java"
+    ],
+    "projects": [
+        {
+            "name": "Youtube Video Summarizer",
+            "description": "The YouTube Video Summarizer is an AI-driven tool that extracts and condenses key insights from YouTube videos. It uses speech-to-text technology to generate transcripts and NLP models to summarize content efficiently. Users can input a video link and receive a concise summary in bullet points or paragraphs. Features include keyword extraction, timestamped highlights, multi-language support, and customization options. Built with Python (Flask/FastAPI), NLP models (GPT, BERT), and a React/Vue.js frontend, this tool benefits students, researchers, and professionals by saving time. Future enhancements may include topic categorization, sentiment analysis, and integration with note-taking or productivity applications."
+        },
+        {
+            "name": "Weather App Project",
+            "description": "The Weather App is a user-friendly application that provides real-time weather updates, forecasts, and alerts based on user location or search queries. It fetches data from APIs like OpenWeatherMap or WeatherAPI to display temperature, humidity, wind speed, and precipitation details. Features include hourly and weekly forecasts, interactive maps, and customizable themes. Built using React or Flutter for the frontend and Node.js or Flask for the backend, it ensures a seamless experience. Additional enhancements could include AI-powered weather predictions, severe weather alerts, and integration with smart home devices for automated climate control based on forecast conditions."
+        }
+    ],
+    "certifications": [
+        {
+            "name": "Python for Data Science",
+            "issuer": "Coursera",
+            "year": "2024"
+        }
+    ]
+}
