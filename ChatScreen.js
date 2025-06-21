@@ -91,8 +91,8 @@ const ChatScreen = () => {
     setIsLoading(true);
 
     try {
-      const response = await axios.post('https://35d6-34-125-38-149.ngrok-free.app/chat', {
-        message: inputText,
+      const response = await axios.post(`${process.env.REACT_APP_API_URL}/chat`, {
+       message: inputText,
       }, {
         headers: { 'ngrok-skip-browser-warning': 'true' },
       });
